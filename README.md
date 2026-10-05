@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me<br>🌐 Web Developer & Python Developer<br>🎓 B.Sc. Graduate in Computer Science<br>🌐 Currently learning Computer Networking<br>🔐 Interested in Cybersecurity<br>🤖 Exploring AI and emerging technologies<br>🛠️ I enjoy learning and experimenting with new tools and technologies<br>📚 Always curious, always learning
+🌐 Web Developer & Python Developer<br>🎓 B.Sc. Graduate in Computer Science<br>🌐 Currently learning Computer Networking<br>🔐 Interested in Cybersecurity<br>🤖 Exploring AI and emerging technologies<br>🛠️ I enjoy learning and experimenting with new tools and technologies<br>📚 Always curious, always learning
 
 
 ## 🌐 Socials:
